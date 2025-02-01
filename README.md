@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eman288/Eman288/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Eman288/Eman288/blob/output/snake.svg)
 
 ###
