@@ -15,10 +15,8 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate Full Stack .NET developer who enjoys building clean, scalable web applications. I love learning new technologies and turning ideas into real products.
+I'm a passionate Full Stack .NET developer who enjoys building clean, scalable web applications. Beyond the web, I like exploring AI and computer vision projects and embedded systems.
 
-- 🔭 Currently working on: **[your current project]**
-- 🌱 Currently learning: **[what you're learning]**
 - 💬 Ask me about: **C#, ASP.NET Core, Angular, SQL**
 - 📫 Reach me at: **emantamam107@gmail.com**
 
@@ -65,9 +63,12 @@ I'm a passionate Full Stack .NET developer who enjoys building clean, scalable w
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Project Name**](https://github.com/Eman288/repo-name) | One-line description of what it does | C#, ASP.NET Core |
-| [**Project Name**](https://github.com/Eman288/repo-name) | One-line description of what it does | Angular, TypeScript |
-| [**Project Name**](https://github.com/Eman288/repo-name) | One-line description of what it does | Unity, C# |
+| [**Duckie**](https://github.com/Eman288/Duckie-AI-powered-language-learning-platform) | AI-powered platform that makes learning English engaging, interactive and personalized, with smart AI feedback and tailored learning paths. | C#, AI |
+| [**Travel Management System**](https://github.com/Eman288/Travel-Management-System) | Manages and streamlines travel arrangements, including booking flights, accommodations and other travel activities. | C# |
+| [**LearnNest**](https://github.com/Eman288/Online-Learning-Platform) | Online education platform where providers create and manage courses, and learners browse, enroll in and track their progress. | Web, CSS |
+| [**AI Coach**](https://github.com/Eman288/AI-Coach) | Detects whether an exercise is performed correctly. Currently supports push-ups, crunches and squats. | Python, Jupyter |
+| [**Sign Language Translator**](https://github.com/Eman288/Sign-Language) | Translates sign language gestures such as "I am fine", "take care", "excuse me" and "goodbye". | Python, Jupyter |
+| [**Security Keypad**](https://github.com/Eman288/Security-Keypad-Embedded-System) | Embedded system with a password-protected keypad that authenticates users and controls access. | C++, Embedded |
 
 ---
 
